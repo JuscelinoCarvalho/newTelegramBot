@@ -1,2 +1,0 @@
-# newTelegramBot
-new bot
