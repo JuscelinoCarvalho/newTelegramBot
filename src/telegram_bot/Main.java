@@ -38,7 +38,7 @@ import org.json.JSONObject;
 public class Main {
 
 	public static String strBotName = "JussaFIAP_bot"; //"JussaBot";
-	private static String strToken = "2079309827:AAFzB_5KpLlTnQbPrLXSIhhNftADlcCQaEI";
+	private static String strToken = "";
 	public static boolean gravaNome = false;
 	public static boolean bolInicio = true;
 	public static String strNomeUser = "";
